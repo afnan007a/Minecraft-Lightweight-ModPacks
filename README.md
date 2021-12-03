@@ -8,7 +8,7 @@ Minecraft ModPacks which can run pretty good in low end devices
 
 ## ✨ ModPacks
 
-- Zombie Apocalypse 
+- __**Zombie Apocalypse**__
 
   - Zombie Apocalypse Modpack for 1.16.5: [**Download**](https://drive.google.com/file/d/1wqAt8Aw7p8a_Xes2Z9eYPoZ2udrTp2x9/view?usp=sharing) 
   - **Note: Select the `TerraForged` world-type when creating a new world to get awesome biome generations.**
